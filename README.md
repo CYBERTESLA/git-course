@@ -1,1 +1,2 @@
-# gitit
+# git-course
+
